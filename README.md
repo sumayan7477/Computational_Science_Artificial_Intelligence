@@ -281,3 +281,46 @@ Reinforcement Learning       ██░░░░░░░░░░░░░░░
 # Computational_Science_Artificial_Intelligences-
 Code, assignments, and projects for my university degree in Computational Science &amp; Artificial Intelligence. Tracks my progress in software engineering, applied mathematics, numerical methods, machine learning, and deep learning architectures. Academic &amp; portfolio archive.
 >>>>>>> 450c3c0 (Initial commit)
+CS-AI/
+│
+├── Year-1/
+│   ├── Semester-1/
+│   │   ├── Intro-to-Programming/
+│   │   ├── Calculus-I/
+│   │   └── Discrete-Mathematics/
+│   └── Semester-2/
+│       ├── Object-Oriented-Programming/
+│       ├── Linear-Algebra/
+│       └── Probability-and-Statistics/
+│
+├── Year-2/
+│   ├── Semester-1/
+│   │   ├── Data-Structures-and-Algorithms/
+│   │   ├── Numerical-Methods/
+│   │   └── Databases-and-SQL/
+│   └── Semester-2/
+│       ├── Machine-Learning/
+│       ├── Operating-Systems/
+│       └── Optimization-Techniques/
+│
+├── Year-3/
+│   ├── Semester-1/
+│   │   ├── Deep-Learning/
+│   │   ├── Computer-Vision/
+│   │   └── Parallel-Computing/
+│   └── Semester-2/
+│       ├── Natural-Language-Processing/
+│       ├── Reinforcement-Learning/
+│       └── Big-Data-Analytics/
+│
+├── Projects/
+│   ├── Personal/
+│   └── Course-Based/
+│
+├── Labs/
+│   └── (Lab exercises & reports)
+│
+└── Resources/
+    ├── Cheatsheets/
+    ├── Papers/
+    └── Notes/
