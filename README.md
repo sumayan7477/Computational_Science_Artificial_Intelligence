@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧬 Computational Science & Artificial Intelligence
 
 <div align="center">
@@ -276,3 +277,7 @@ Reinforcement Learning       ██░░░░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Learning!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 
 </div>
+=======
+# Computational_Science_Artificial_Intelligences-
+Code, assignments, and projects for my university degree in Computational Science &amp; Artificial Intelligence. Tracks my progress in software engineering, applied mathematics, numerical methods, machine learning, and deep learning architectures. Academic &amp; portfolio archive.
+>>>>>>> 450c3c0 (Initial commit)
