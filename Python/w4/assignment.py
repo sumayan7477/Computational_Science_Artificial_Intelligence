@@ -104,6 +104,8 @@ import matplotlib.pyplot as plt
 
 x1 = np.array([-3, -1, 0, 1, 3])
 y1 = np.array([7, 3, 7, 3, 7])
+plt.plot(x1,x2,"*")
+plt.show()
 
 
 # 3a  **************
