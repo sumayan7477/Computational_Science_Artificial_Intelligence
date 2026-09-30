@@ -47,7 +47,7 @@ k = np.arange(0,11)
 terms = (1/3)**k
 geo_sum =np.sum(terms)
 
-# verification
+# verification (1-x^n)/(1-n)
 geom_sum_formula = (1-(1/3)**11)/(1-1/3)
 print(f"2(b) Vectorized Sum: {geo_sum:.8f}, Formula Verification: {geom_sum_formula:.8f}")
 
@@ -73,6 +73,29 @@ for n in [20 , 40 , 60 , 80 , 100]:
     s_n = np.sum(dx * (y[1:] + y[:-1])/2)
     error = np. abs(exact_val - s_n)
     print(f"Task 3: n = {n:3d} | Trapezoidal Sum = {s_n:.8f} | Absolute Error = {error:.2e}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # ==========================================
