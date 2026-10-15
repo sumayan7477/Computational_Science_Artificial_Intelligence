@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+Python can read this file.
+This is the fourth line.
