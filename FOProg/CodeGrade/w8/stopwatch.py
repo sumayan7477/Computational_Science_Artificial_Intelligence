@@ -1,2 +1,10 @@
-IDLEMOD1
-y6k50ee03kPHfdJEznz9MLu07WZb42Iq5QO2wDu/Ol7/mJYUVb32V2lgV2XdMW5fpymZqMw+frRGlQJ3TAaZ8QA5FhdsdThZgvv4pgw7bccSNw5ziOFmZ8eltWtpbDxWRSP0poSsFUNjT+Sh9pm63l7tcLXnQqnvmkkNdCeL7cC6mVE9fgKro/361HgZigMCzTmKmhNXl7JFFTJWfDFSUXu09cT51vgN1i4k8S1r8r93ScT1sWznmPgdlW2zGYVm0NY1P7w/ew7FBcss4OjdCj4WPEPyMSG9d88Tjv8DL1XrbkHqkbAJUBmjiMh4/8IREN1ktcK3H6MXZ6tIQ9W1W0T/Ich/xH5vWqfYNaTHLQuuubRLBlFFFO/ML8pcJ9s4uXV/jerc
+import time
+
+input("Press Enter to start the stopwatch.")
+start_time = time.perf_counter()
+
+input("Press Enter to stop the stopwatch.")
+end_time = time.perf_counter()
+
+elapsed_time = end_time - start_time
+print(f"Elapsed time: {elapsed_time:.2f} seconds")
